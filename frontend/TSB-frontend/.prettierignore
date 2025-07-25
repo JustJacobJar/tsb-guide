@@ -1,0 +1,9 @@
+# Ignore artifacts:
+build
+coverage
+**/.tanstack/
+
+**/.git
+**/.svn
+**/.hg
+**/node_modules
